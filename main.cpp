@@ -9,7 +9,7 @@ int main() {
       case 0:   
       result = (a*b) /2;   
       break;   
-      case1:   
+      case 1:   
       result = a*a;   
       break;   
       case 2:
